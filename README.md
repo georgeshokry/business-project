@@ -1,5 +1,5 @@
 # business-project
- ##### the front end part of business project using SPA Vue.js.
+ ##### the front end part of a SPA business project using Vue.js.
  ##### the project did not published yet.
 
 
