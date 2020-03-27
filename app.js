@@ -54,12 +54,12 @@ Vue.use(Geocoder, {
     defaultCountryCode: null, // e.g. 'CA'
     defaultLanguage:    'en', // e.g. 'en'
     defaultMode:        'address', // or 'lat-lng'
-    googleMapsApiKey:   'AIzaSyC7-xLNQnKkxmxhNPF0xqOzDq48gb0tiDo'
+    googleMapsApiKey:   'XXX'
 });
 
 Vue.use(VueGoogleMaps, {
     load: {
-        key: 'AIzaSyC7-xLNQnKkxmxhNPF0xqOzDq48gb0tiDo',
+        key: 'XXX',
         libraries: 'places', // This is required if you use the Autocomplete plugin
         // OR: libraries: 'places,drawing'
         // OR: libraries: 'places,drawing,visualization'
@@ -107,11 +107,11 @@ Vue.use(VueSocialauth, {
 
     providers: {
         facebook: {
-            clientId: '482712415572430',
+            clientId: 'XXX',
             redirectUri:'https://ver4.mybusinessme.com/callback/facebook' // Your client app URL
         },
         google: {
-            clientId: '723973169239-ntlumln0co60nveqmdkt68l2ptq6lusc.apps.googleusercontent.com',
+            clientId: 'XXX',
             redirectUri:'https://ver4.mybusinessme.com/callback/google' // Your client app URL
         }
     }
