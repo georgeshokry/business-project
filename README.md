@@ -1,6 +1,6 @@
 # business-project
- ####the front end part of business project using SPA Vue.js.
- ####the project did not published yet.
+ ##### the front end part of business project using SPA Vue.js.
+ ##### the project did not published yet.
 
 
 ### Tools and components Used
@@ -27,4 +27,4 @@
 -
 ![inbox](./screens/inbox.png)
 
-###all these pages are full responsive.
+#### all these pages are full responsive.
