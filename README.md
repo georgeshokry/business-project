@@ -28,3 +28,4 @@
 ![inbox](./screens/inbox.png)
 
 #### all these pages are full responsive.
+### NOTE: And these are not all of screens.
